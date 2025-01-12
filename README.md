@@ -1,1 +1,1 @@
-# react-fetflix
+# react-netflix
